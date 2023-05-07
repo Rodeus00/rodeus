@@ -67,10 +67,10 @@ global.botname = 'rodeus bot' //ur bot name
 global.linkz = "https://youtube.com/channel/UCeMTAPzrnSXzQtQFVhpGUlg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCeMTAPzrnSXzQtQFVhpGUlg" //ur website to be displayed
 global.botscript = 'https://youtube.com/channel/UCeMTAPzrnSXzQtQFVhpGUlg' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "🙈" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "🦄Dream Guy rodeus" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201015078536'] //ur premium numbers
+global.premium = ['972532030205'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
